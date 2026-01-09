@@ -47,6 +47,7 @@ C++ [Visual Studio 2022](https://visualstudio.microsoft.com/) project. If you do
 
 ### License:
 Licensed under: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0).
+This licensed means you cannot take this source code and put it or a compiled version of the source code in a commercial product. You are permited use this tool to create data (esp or esm) that is then put in a commercial product. So basically, you are permited to use this to create a paid mod.
 
   This software is provided 'as-is', without any express or implied
   warranty.  In no event will the author be held liable for any damages
